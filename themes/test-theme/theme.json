@@ -1,0 +1,10 @@
+{
+    "name": "Test Theme",
+    "location": "test-theme",
+    "namespace": "Theme\\TestTheme\\",
+    "version": "1.0",
+    "author": "Themelooks",
+    "url": "http://www.themelooks.com/",
+    "description": "Test Theme For Cmslooks",
+    "is_verified": false
+}
